@@ -1,0 +1,8 @@
+file_format: "1"
+id: pad6
+name: Pad6
+type: shield
+url: https://github.com/jim86sc/zmk-config-pad6
+requires: nice!nano_V02
+features:
+  - keys
